@@ -2,7 +2,7 @@
 
 
 body, html {
-	font-family: 'Poppins';
+	font-family: 'Bahnschrift';
 	text-rendering: optimizeLegibility !important;
 	-webkit-font-smoothing: antialiased !important;
 	color: #777;
@@ -430,7 +430,7 @@ ol.type li a:hover {
 label {
 	font-size: 12px;
 	font-weight: 400;
-	font-family: 'Poppins';
+	font-family: 'Bahnschrift';
 	float: left;
 }
 #contact .form-control {
